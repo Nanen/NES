@@ -1,0 +1,14 @@
+Erzeugung Variable args
+Erzeugung Variable a
+Erzeugung Variable b
+Erzeugung Variable test
+Erzeugung Variable i
+Löschung Variable i
+Erzeugung Variable j
+Löschung Variable test
+Löschung Variable j
+Erzeugung Variable parameter
+Löschung Variable parameter
+Löschung Variable a
+Löschung Variable b
+Löschung Variable args
